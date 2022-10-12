@@ -21,25 +21,24 @@ const config = {
         categoriesNum: '0',
         tagsNum: '33',
         socialLinks: [
-            { url: 'https://github.com/', name: 'github', icon: "i-github" },
+            { url: 'https://github.com/creacing/Close_To_Me', name: 'github', icon: "i-github" },
             { url: 'https://twitter.com/', name: 'twitter', icon: "i-twitter" },
             { url: 'https://www.zhihu.com/people/', name: 'zhihu', icon: "i-zhihu" },
             { url: 'https://music.163.com/', name: 'music', icon: "i-cloud-music" },
             { url: 'https://t.me/', name: 'telegram', icon: "i-paper-plane" },
         ],
-        localPath:[
-          {url:'/' ,icon:'i-feather',name: 'could1',},
-          {url:'/archives',icon:'i-list-alt',name: 'could2',},
-          {url:'/tags',icon:'i-tags',name: 'could3',},
-          {url:'/WebSites',icon:'i-star',name: 'could4',},
-          {url:'/about',icon:'i-cloud',name: 'could5',}
+        localPath: [
+            { url: '/', icon: 'i-feather', name: 'could1', },
+            { url: '/archives', icon: 'i-list-alt', name: 'could2', },
+            { url: '/tags', icon: 'i-tags', name: 'could3', },
+            { url: '/WebSites', icon: 'i-star', name: 'could4', },
+            { url: '/about', icon: 'i-cloud', name: 'could5', }
         ]
     },
-    sites:[
-      {url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'},
-      {url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'},
-      {url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'},{url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'},{url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'},{url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'},
-      {url:"http://www.sortablejs.com/",title:"sortablejs",color:"",description:'功能强大的javascript拖拽库'}
+    sites: [
+        { url: "https://www.remove.bg/zh", title: "在线抠图", color: "", description: '在线抠图' },
+        { url: "http://www.sortablejs.com/", title: "sortablejs", color: "", description: '功能强大的javascript拖拽库' },
+        { url: "http://tool.c7sky.com/webcolor/", title: "网页设计常用色彩搭配表", color: "", description: '网页设计常用色彩搭配表' }
     ],
     //colud color
     cloudColorList: [
