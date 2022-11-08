@@ -22,10 +22,10 @@ const config = {
         tagsNum: '33',
         socialLinks: [
             { url: 'https://github.com/creacing/Close_To_Me', name: 'github', icon: "i-github" },
-            { url: 'https://twitter.com/', name: 'twitter', icon: "i-twitter" },
-            { url: 'https://www.zhihu.com/people/', name: 'zhihu', icon: "i-zhihu" },
-            { url: 'https://music.163.com/', name: 'music', icon: "i-cloud-music" },
-            { url: 'https://t.me/', name: 'telegram', icon: "i-paper-plane" },
+            // { url: 'https://twitter.com/', name: 'twitter', icon: "i-twitter" },
+            // { url: 'https://www.zhihu.com/people/', name: 'zhihu', icon: "i-zhihu" },
+            // { url: 'https://music.163.com/', name: 'music', icon: "i-cloud-music" },
+            // { url: 'https://t.me/', name: 'telegram', icon: "i-paper-plane" },
         ],
         localPath: [
             { url: '/', icon: 'i-feather', name: 'could1', },
