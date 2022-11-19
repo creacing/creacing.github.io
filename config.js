@@ -21,14 +21,14 @@ const config = {
         categoriesNum: '0',
         tagsNum: '33',
         socialLinks: [
-            { url: 'https://github.com/creacing/Close_To_Me', name: 'github', icon: "i-github" },
+            { url: 'https://github.com/creacing/Close_To_Me', name: 'github', icon: "i-github", title: 'Github' },
         ],
         localPath: [
-            { url: '/', icon: 'i-feather', name: 'could1', },
-            { url: '/archive', icon: 'i-list-alt', name: 'could2', },
-            { url: '/tag', icon: 'i-tag', name: 'could3', },
-            { url: '/site', icon: 'i-star', name: 'could4', },
-            { url: '/about', icon: 'i-cloud', name: 'could5', }
+            { url: '/', icon: 'i-feather', name: 'could1', title: '首页' },
+            { url: '/archive', icon: 'i-list-alt', name: 'could2', title: '归档' },
+            { url: '/tag', icon: 'i-tag', name: 'could3', title: '标签' },
+            { url: '/site', icon: 'i-star', name: 'could4', title: '收藏' },
+            { url: '/about', icon: 'i-cloud', name: 'could5', title: '关于' }
         ]
     },
     sites: [
@@ -40,7 +40,7 @@ const config = {
         { url: "https://www.fontke.com/tool/rgb/eee5f8/", title: "查询颜色", color: "", description: '颜色查询' },
         { url: "https://animista.net/play/basic/rotate", title: "css动画", color: "", description: 'css动画大全' }
 
-        
+
     ],
     //colud color
     cloudColorList: [
